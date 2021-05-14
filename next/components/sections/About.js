@@ -31,7 +31,7 @@ const About = () => {
           <div className="p-5">
             <img src="/images/about.png"/>
           </div>
-          <div className="p-3 mt-20">
+          <div className="p-3">
             <h3 className="text-6xl text-center text-white">Use Protection</h3>
           </div>
           <div className="p-1">
