@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @import '../styles/Home.module.css';
-
+@import '../styles/fourthpage.module.css';
 html,
 body {
   padding: 0;
