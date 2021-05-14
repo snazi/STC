@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        'logo-max': '11rem'
+        'logo-max': '7rem'
       }
     },
   },
