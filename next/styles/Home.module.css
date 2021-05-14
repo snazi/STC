@@ -1,4 +1,4 @@
-.container {
+/* .container {
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
@@ -16,4 +16,17 @@
 .logoContainer {
   height: 80%;
   width: 80%;
+} */
+
+.first-page{
+  background-image: url(../public//images/bg1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.rocket-girl{
+  position: absolute;
+  width: 35rem;
+  top: 8rem;
+  left: 75rem;
 }

@@ -1,0 +1,13 @@
+.fourth-page{
+  background-image: url(../public//images/bg4_edit.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.p4-foreground{
+  margin: auto;
+  width: 65%;
+  
+  padding: 10px;
+}
+
