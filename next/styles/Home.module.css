@@ -23,3 +23,10 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.rocket-girl{
+  position: absolute;
+  width: 35rem;
+  top: 8rem;
+  left: 75rem;
+}
