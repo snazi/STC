@@ -1,5 +1,7 @@
 .third-page{
   background-image: url(../public/images/bg3.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  height: 100vh;
+  
 }
