@@ -40,6 +40,7 @@ const Home = () => {
             </div>
           </div>
         </div>
+        <img className="rocket-girl" src="/images/section1_rocket.png"/>
       </section>
       <section className="bg-gradient-to-r to-green-400 from-blue-500">
         <div className="flex flex-row h-96 content-around justify-center items-end">
