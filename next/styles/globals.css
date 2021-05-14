@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'QuartzoBold';
+  src: local('QuartzoBold'), url(../public/fonts/QuartzoBold.ttf) format('ttf');
+}
+
 html,
 body {
   padding: 0;
