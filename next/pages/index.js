@@ -1,4 +1,4 @@
-import {directories, socialDirectory} from '../datas/directory';
+import { directories, socialDirectory } from '../datas/directory';
 
 const Home = () => {
 
@@ -6,18 +6,18 @@ const Home = () => {
     <div className="first-page">
       <nav className="p-5 flex flex-row justify-between">
         <div className="max-w-logo-max">
-          <img src="/images/sextoy.png"/>
+          <img src="/images/sextoy.png" />
         </div>
         <ul className="flex flex-row">
-          { directories.map(item => (
+          {directories.map(item => (
             <li className='px-2' key={item.name}>
               <a>
-                <span className="capitalize text-base text-red-500">
+                <span className="capitalize text-xl text-red-500">
                   {item.name}
                 </span>
               </a>
             </li>
-          )) }
+          ))}
         </ul>
       </nav>
       <section>
