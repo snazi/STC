@@ -35,7 +35,7 @@ const Home = () => {
               <p className="text-3xl text-red-500 text-justify">
                 - we stick passive yield rewards into... your wallet <br/>
                 - liquidity is generated and sent to the Pancake Swap LP <br/>
-                - burn to bring you to climax
+                - burns to bring you to climax
               </p>
             </div>
           </div>
