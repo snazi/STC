@@ -28,3 +28,21 @@ export const directories = [
     link: ''
   }
 ]
+
+export const socialDirectory = [
+  {
+    name: 'Pancakeswap',
+    color: 'red-200',
+    link: ''
+  },
+  {
+    name: 'Telegram',
+    color: 'red-400',
+    link: ''
+  },
+  {
+    name: 'Twitter',
+    color: 'red-600',
+    link: ''
+  }
+]
