@@ -1,30 +1,30 @@
 export const directories = [
   {
-    name: 'sextoy shop',
+    name: 'SEXTOY SHOP',
     link: ''
   },
   {
-    name: 'about',
+    name: 'ABOUT',
     link: ''
   },
   {
-    name: 'tokenomics',
+    name: 'TOKENOMICS',
     link: ''
   },
   {
-    name: 'whitepaper',
+    name: 'WHITEPAPER',
     link: ''
   },
   {
-    name: 'roadmap',
+    name: 'ROADMAP',
     link: ''
   },
   {
-    name: 'bscscan',
+    name: 'BSCSCAN',
     link: ''
   },
   {
-    name: 'buy pancake',
+    name: 'BUY PANCAKE',
     link: ''
   }
 ]
@@ -43,6 +43,24 @@ export const socialDirectory = [
   {
     name: 'Twitter',
     color: 'red-600',
+    link: ''
+  }
+]
+
+export const aboutDirectories = [
+  {
+    name: 'View Vault',
+    color: 'white',
+    link: ''
+  },
+  {
+    name: 'Proof of Burn',
+    color: 'white',
+    link: ''
+  },
+  {
+    name: 'Poo Coin Chart',
+    color: 'white',
     link: ''
   }
 ]
