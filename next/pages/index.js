@@ -6,7 +6,7 @@ const Home = () => {
     <div className="root">
       <nav className="p-5 flex flex-row justify-between">
         <div className="max-w-logo-max">
-          <img src="/sextoy.png"/>
+          <img src="/images/sextoy.png"/>
         </div>
         <ul className="flex flex-row">
           { directories.map(item => (
