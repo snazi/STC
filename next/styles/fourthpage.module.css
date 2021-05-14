@@ -18,23 +18,17 @@
   width: 80%;
 } */
 
-.first-page{
-  background-image: url(../public//images/bg1.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-}
 
 
 .fourth-page{
   background-image: url(../public//images/bg4_edit.png);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.p4-foreground{
+  background-image: url(../public//images/bg4_edit.png);
+  background-repeat: no-repeat;
   background-size: contain;
 }
 
-.rocket-girl{
-  position: absolute;
-  top: 8rem;
-  width: 35rem;
-  left: 75rem;
-}
