@@ -4,8 +4,13 @@ const Home = () => {
 
   return (
     <div className="root"  >
-      <img src="/images/bg4.png" />
-      <div style="background-image: (/images/bg4.png);"></div>
+
+      <body background="../images/bg4_edit.png">
+        <div>
+          <img src="/images/beads_words.png" />
+        </div>
+      </body>
+
     </div >
   )
 }
