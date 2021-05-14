@@ -21,16 +21,5 @@
 .first-page{
   background-image: url(../public//images/bg1.png);
   background-repeat: no-repeat;
-<<<<<<< HEAD
-  background-size: 200vh;
-}
-
-
-.fourth-page{
-  background-image: url(../public//images/bg4_edit.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-=======
   background-size: contain;
->>>>>>> c618328d26c375bb3401b04204435d70df1ad5fe
 }
