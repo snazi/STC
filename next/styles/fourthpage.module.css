@@ -26,3 +26,9 @@
   background-size: cover;
 }
 
+.p4-foreground{
+  background-image: url(../public//images/bg4_edit.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
