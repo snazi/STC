@@ -2,8 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'QuartzoBold';
+  src: local('QuartzoBold'), url(../public/fonts/QuartzoBold.ttf) format('ttf');
+}
+
+
 @import '../styles/Home.module.css';
-@import '../styles/fourthpage.module.css';
+@import '../styles/About.module.css';
+@import '../styles/Tokenomics.module.css';
+@import '../styles/Roadmap.module.css';
+
 html,
 body {
   padding: 0;

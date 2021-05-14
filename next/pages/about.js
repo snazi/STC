@@ -3,7 +3,7 @@ import {directories} from '../datas/directory';
 const Home = () => {
 
   return (
-    <div className="root">
+    <div className="second-page">
       <nav className="p-5 flex flex-row justify-between">
         <div className="max-w-logo-max">
           <img src="/images/sextoy.png"/>
