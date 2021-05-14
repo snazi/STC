@@ -1,7 +1,6 @@
-import {tokenomicsDirectories} from '../datas/directory';
+import {tokenomicsDirectories} from '../../datas/directory';
 
-const Home = () => {
-
+const Tokenomics = () => {
   return (
     <div className="third-page">
       <section>
@@ -21,4 +20,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default Tokenomics;

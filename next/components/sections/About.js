@@ -1,7 +1,6 @@
-import {directories, aboutDirectories} from '../datas/directory';
+import { directories, aboutDirectories} from '../../datas/directory';
 
-const Home = () => {
-
+const About = () => {
   return (
     <div className="second-page h-screen">
       <nav className="p-5 flex flex-row justify-between bg-white">
@@ -51,10 +50,8 @@ const Home = () => {
           </div>
         </div>
       </section>
-            
-
-    </div>  
+    </div>   
   )
 }
 
-export default Home;
+export default About;
