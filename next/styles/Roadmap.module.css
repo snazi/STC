@@ -5,7 +5,9 @@
 }
 
 .p4-foreground{
-  background-image: url(../public//images/bg4_edit.png);
-  background-repeat: no-repeat;
-  background-size: contain;
+  margin: auto;
+  width: 65%;
+  
+  padding: 10px;
 }
+

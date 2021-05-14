@@ -1,0 +1,38 @@
+/* .container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main {
+  flex: 1;
+  display: flex;
+}
+
+.logoContainer {
+  height: 80%;
+  width: 80%;
+} */
+
+
+
+.fourth-page{
+  background-image: url(../public//images/bg4_edit.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.p4-foreground{
+  background-image: url(../public//images/beads_words.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.alignVertical{
+
+max-height:80px;
+}

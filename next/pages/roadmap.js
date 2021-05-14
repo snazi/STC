@@ -4,11 +4,9 @@ const Home = () => {
 
   return (
     <div className="fourth-page" >
-
-      <div>
+      <div className="p4-foreground" >
         <img src="/images/beads_words.png" />
       </div>
-
 
     </div >
   )
