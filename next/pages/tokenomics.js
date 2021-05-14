@@ -1,10 +1,22 @@
-import {directories} from '../datas/directory';
+import {tokenomicsDirectories} from '../datas/directory';
 
 const Home = () => {
 
   return (
     <div className="third-page">
-      Hello World!
+      <section>
+        <div className="p-5 flex flex-row justify-center">
+          {tokenomicsDirectories.map(item => (
+            <button className={`
+              max-h-20 shadow-2xl mr-3 mb-6
+              border-2 border-${item.color} bg-${item.color} 
+              text-2xl p-4 w-80 rounded-r-full text-red-500`
+            } key={item.name}>
+              {item.name}
+            </button>
+          ))}
+        </div>
+      </section>
     </div>
   )
 }

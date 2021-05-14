@@ -64,3 +64,16 @@ export const aboutDirectories = [
     link: ''
   }
 ]
+
+export const tokenomicsDirectories = [
+  {
+    name: 'Breakdown of Tokenomics',
+    color: 'black',
+    link: ''
+  },
+  {
+    name: 'Distribution',
+    color: 'black',
+    link: ''
+  },
+]
