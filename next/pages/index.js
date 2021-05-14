@@ -42,7 +42,7 @@ const Home = () => {
         </div>
       </section>
       <section className="bg-gradient-to-r to-green-400 from-blue-500">
-        <div className="flex flex-row h-72 content-around justify-center items-end">
+        <div className="flex flex-row h-96 content-around justify-center items-end">
           {socialDirectory.map(item => (
             <button className={`
               max-h-20 shadow-2xl mr-3 mb-6
