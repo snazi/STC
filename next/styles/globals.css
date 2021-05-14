@@ -12,6 +12,7 @@
 @import '../styles/About.module.css';
 @import '../styles/Tokenomics.module.css';
 @import '../styles/Roadmap.module.css';
+@import '../styles/Footer.module.css';
 
 html,
 body {

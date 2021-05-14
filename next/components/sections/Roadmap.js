@@ -1,7 +1,4 @@
-import { directories } from '../datas/directory';
-
-const Home = () => {
-
+const Roadmap = () => {
   return (
     <div className="fourth-page h-screen"  >
       <div className="p4-foreground" >
@@ -11,4 +8,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default Roadmap;
