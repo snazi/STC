@@ -3,7 +3,7 @@ import {directories, socialDirectory} from '../datas/directory';
 const Home = () => {
 
   return (
-    <div className="first page">
+    <div className="first-page">
       <nav className="p-5 flex flex-row justify-between">
         <div className="max-w-logo-max">
           <img src="/images/sextoy.png"/>
@@ -21,7 +21,7 @@ const Home = () => {
         </ul>
       </nav>
       <section>
-        <div className="container mx-8 flex flex-row mb-14">
+        <div className="container mx-8 flex flex-row mb-24">
           <div className="pt-14">
             <p className="capitalize text-3xl text-red-500">play with</p>
             <div className="max-w-6xl pt-3">
@@ -41,8 +41,8 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="bg-blue-400">
-        <div className="flex flex-row h-80 content-around justify-center items-end">
+      <section className="bg-gradient-to-r to-green-400 from-blue-500">
+        <div className="flex flex-row h-72 content-around justify-center items-end">
           {socialDirectory.map(item => (
             <button className={`
               max-h-20 shadow-2xl mr-3 mb-6
